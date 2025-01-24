@@ -26,4 +26,20 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [0540-single-element-in-a-sorted-array](https://github.com/anjali25singhhh/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+## Depth-First Search
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/anjali25singhhh/Leetcode/tree/master/0820-find-eventual-safe-states) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/anjali25singhhh/Leetcode/tree/master/0820-find-eventual-safe-states) |
+## Graph
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/anjali25singhhh/Leetcode/tree/master/0820-find-eventual-safe-states) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/anjali25singhhh/Leetcode/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
