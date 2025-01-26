@@ -31,6 +31,7 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/anjali25singhhh/Leetcode/tree/master/0820-find-eventual-safe-states) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/anjali25singhhh/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -39,10 +40,12 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/anjali25singhhh/Leetcode/tree/master/0820-find-eventual-safe-states) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/anjali25singhhh/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Topological Sort
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/anjali25singhhh/Leetcode/tree/master/0820-find-eventual-safe-states) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/anjali25singhhh/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Union Find
 |  |
 | ------- |
