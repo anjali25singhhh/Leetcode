@@ -78,6 +78,7 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/anjali25singhhh/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/anjali25singhhh/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Counting
 |  |
 | ------- |
@@ -85,6 +86,7 @@ My Leetcode Solutions
 ## Simulation
 |  |
 | ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/anjali25singhhh/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/anjali25singhhh/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Design
 |  |
@@ -98,4 +100,8 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/anjali25singhhh/Leetcode/tree/master/2434-design-a-number-container-system) |
+## Stack
+|  |
+| ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/anjali25singhhh/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
