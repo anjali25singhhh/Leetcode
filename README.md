@@ -7,6 +7,7 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [0540-single-element-in-a-sorted-array](https://github.com/anjali25singhhh/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [1477-product-of-the-last-k-numbers](https://github.com/anjali25singhhh/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/anjali25singhhh/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/anjali25singhhh/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2145-grid-game](https://github.com/anjali25singhhh/Leetcode/tree/master/2145-grid-game) |
@@ -35,6 +36,7 @@ My Leetcode Solutions
 ## Prefix Sum
 |  |
 | ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/anjali25singhhh/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2145-grid-game](https://github.com/anjali25singhhh/Leetcode/tree/master/2145-grid-game) |
 ## Binary Search
 |  |
@@ -96,6 +98,7 @@ My Leetcode Solutions
 ## Design
 |  |
 | ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/anjali25singhhh/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/anjali25singhhh/Leetcode/tree/master/2434-design-a-number-container-system) |
 ## Heap (Priority Queue)
 |  |
@@ -111,4 +114,12 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/anjali25singhhh/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+## Math
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/anjali25singhhh/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/anjali25singhhh/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
