@@ -8,6 +8,7 @@ My Leetcode Solutions
 | ------- |
 | [0540-single-element-in-a-sorted-array](https://github.com/anjali25singhhh/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1477-product-of-the-last-k-numbers](https://github.com/anjali25singhhh/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/anjali25singhhh/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/anjali25singhhh/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/anjali25singhhh/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2145-grid-game](https://github.com/anjali25singhhh/Leetcode/tree/master/2145-grid-game) |
@@ -126,5 +127,6 @@ My Leetcode Solutions
 ## Backtracking
 |  |
 | ------- |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/anjali25singhhh/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/anjali25singhhh/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 <!---LeetCode Topics End-->
