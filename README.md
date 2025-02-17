@@ -23,6 +23,7 @@ My Leetcode Solutions
 ## Hash Table
 |  |
 | ------- |
+| [1160-letter-tile-possibilities](https://github.com/anjali25singhhh/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/anjali25singhhh/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2434-design-a-number-container-system](https://github.com/anjali25singhhh/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/anjali25singhhh/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -84,11 +85,13 @@ My Leetcode Solutions
 ## String
 |  |
 | ------- |
+| [1160-letter-tile-possibilities](https://github.com/anjali25singhhh/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/anjali25singhhh/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/anjali25singhhh/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Counting
 |  |
 | ------- |
+| [1160-letter-tile-possibilities](https://github.com/anjali25singhhh/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/anjali25singhhh/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Simulation
 |  |
@@ -127,6 +130,7 @@ My Leetcode Solutions
 ## Backtracking
 |  |
 | ------- |
+| [1160-letter-tile-possibilities](https://github.com/anjali25singhhh/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/anjali25singhhh/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/anjali25singhhh/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 <!---LeetCode Topics End-->
