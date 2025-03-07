@@ -12,6 +12,7 @@ My Leetcode Solutions
 | [0035-search-insert-position](https://github.com/anjali25singhhh/Leetcode/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/anjali25singhhh/Leetcode/tree/master/0037-sudoku-solver) |
 | [0047-permutations-ii](https://github.com/anjali25singhhh/Leetcode/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/anjali25singhhh/Leetcode/tree/master/0049-group-anagrams) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anjali25singhhh/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/anjali25singhhh/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1477-product-of-the-last-k-numbers](https://github.com/anjali25singhhh/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -33,6 +34,7 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/anjali25singhhh/Leetcode/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/anjali25singhhh/Leetcode/tree/master/0049-group-anagrams) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/anjali25singhhh/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/anjali25singhhh/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/anjali25singhhh/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -101,6 +103,7 @@ My Leetcode Solutions
 | ------- |
 | [0018-4sum](https://github.com/anjali25singhhh/Leetcode/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/anjali25singhhh/Leetcode/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/anjali25singhhh/Leetcode/tree/master/0049-group-anagrams) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/anjali25singhhh/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/anjali25singhhh/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## String
@@ -109,6 +112,7 @@ My Leetcode Solutions
 | [0008-string-to-integer-atoi](https://github.com/anjali25singhhh/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0038-count-and-say](https://github.com/anjali25singhhh/Leetcode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/anjali25singhhh/Leetcode/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/anjali25singhhh/Leetcode/tree/master/0049-group-anagrams) |
 | [1160-letter-tile-possibilities](https://github.com/anjali25singhhh/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/anjali25singhhh/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/anjali25singhhh/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
