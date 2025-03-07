@@ -9,6 +9,7 @@ My Leetcode Solutions
 | [0004-median-of-two-sorted-arrays](https://github.com/anjali25singhhh/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/anjali25singhhh/Leetcode/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/anjali25singhhh/Leetcode/tree/master/0018-4sum) |
+| [0035-search-insert-position](https://github.com/anjali25singhhh/Leetcode/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/anjali25singhhh/Leetcode/tree/master/0037-sudoku-solver) |
 | [0047-permutations-ii](https://github.com/anjali25singhhh/Leetcode/tree/master/0047-permutations-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anjali25singhhh/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -58,6 +59,7 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anjali25singhhh/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/anjali25singhhh/Leetcode/tree/master/0035-search-insert-position) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anjali25singhhh/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 ## Depth-First Search
 |  |
