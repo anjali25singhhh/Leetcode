@@ -9,6 +9,7 @@ My Leetcode Solutions
 | [0004-median-of-two-sorted-arrays](https://github.com/anjali25singhhh/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/anjali25singhhh/Leetcode/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/anjali25singhhh/Leetcode/tree/master/0018-4sum) |
+| [0037-sudoku-solver](https://github.com/anjali25singhhh/Leetcode/tree/master/0037-sudoku-solver) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anjali25singhhh/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/anjali25singhhh/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1477-product-of-the-last-k-numbers](https://github.com/anjali25singhhh/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -29,6 +30,7 @@ My Leetcode Solutions
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/anjali25singhhh/Leetcode/tree/master/0037-sudoku-solver) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/anjali25singhhh/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/anjali25singhhh/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/anjali25singhhh/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -41,6 +43,7 @@ My Leetcode Solutions
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/anjali25singhhh/Leetcode/tree/master/0037-sudoku-solver) |
 | [2145-grid-game](https://github.com/anjali25singhhh/Leetcode/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/anjali25singhhh/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/anjali25singhhh/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -152,6 +155,7 @@ My Leetcode Solutions
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/anjali25singhhh/Leetcode/tree/master/0037-sudoku-solver) |
 | [1160-letter-tile-possibilities](https://github.com/anjali25singhhh/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/anjali25singhhh/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/anjali25singhhh/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
