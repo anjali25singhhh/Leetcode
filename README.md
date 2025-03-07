@@ -108,6 +108,7 @@ My Leetcode Solutions
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/anjali25singhhh/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0038-count-and-say](https://github.com/anjali25singhhh/Leetcode/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/anjali25singhhh/Leetcode/tree/master/0043-multiply-strings) |
 | [1160-letter-tile-possibilities](https://github.com/anjali25singhhh/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/anjali25singhhh/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/anjali25singhhh/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -122,6 +123,7 @@ My Leetcode Solutions
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/anjali25singhhh/Leetcode/tree/master/0043-multiply-strings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/anjali25singhhh/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/anjali25singhhh/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/anjali25singhhh/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -149,6 +151,7 @@ My Leetcode Solutions
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/anjali25singhhh/Leetcode/tree/master/0043-multiply-strings) |
 | [1477-product-of-the-last-k-numbers](https://github.com/anjali25singhhh/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/anjali25singhhh/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2610-closest-prime-numbers-in-range](https://github.com/anjali25singhhh/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
