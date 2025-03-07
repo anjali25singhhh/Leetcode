@@ -7,6 +7,7 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anjali25singhhh/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0018-4sum](https://github.com/anjali25singhhh/Leetcode/tree/master/0018-4sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anjali25singhhh/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/anjali25singhhh/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1477-product-of-the-last-k-numbers](https://github.com/anjali25singhhh/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -91,6 +92,7 @@ My Leetcode Solutions
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/anjali25singhhh/Leetcode/tree/master/0018-4sum) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/anjali25singhhh/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/anjali25singhhh/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## String
@@ -181,4 +183,8 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/anjali25singhhh/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
+## Two Pointers
+|  |
+| ------- |
+| [0018-4sum](https://github.com/anjali25singhhh/Leetcode/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
