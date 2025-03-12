@@ -23,6 +23,7 @@ My Leetcode Solutions
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/anjali25singhhh/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/anjali25singhhh/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/anjali25singhhh/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/anjali25singhhh/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/anjali25singhhh/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/anjali25singhhh/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/anjali25singhhh/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -141,6 +142,7 @@ My Leetcode Solutions
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/anjali25singhhh/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/anjali25singhhh/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1524-string-matching-in-an-array](https://github.com/anjali25singhhh/Leetcode/tree/master/1524-string-matching-in-an-array) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/anjali25singhhh/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/anjali25singhhh/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/anjali25singhhh/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/anjali25singhhh/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -234,6 +236,7 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/anjali25singhhh/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/anjali25singhhh/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 ## Number Theory
 |  |
 | ------- |
