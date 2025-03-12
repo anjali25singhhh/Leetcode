@@ -15,6 +15,7 @@ My Leetcode Solutions
 | [0049-group-anagrams](https://github.com/anjali25singhhh/Leetcode/tree/master/0049-group-anagrams) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anjali25singhhh/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/anjali25singhhh/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/anjali25singhhh/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0749-shortest-completing-word](https://github.com/anjali25singhhh/Leetcode/tree/master/0749-shortest-completing-word) |
 | [0822-unique-morse-code-words](https://github.com/anjali25singhhh/Leetcode/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/anjali25singhhh/Leetcode/tree/master/0837-most-common-word) |
@@ -235,6 +236,7 @@ My Leetcode Solutions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/anjali25singhhh/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/anjali25singhhh/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/anjali25singhhh/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 ## Number Theory
