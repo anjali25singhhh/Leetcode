@@ -87,6 +87,7 @@ My Leetcode Solutions
 ## Depth-First Search
 |  |
 | ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/anjali25singhhh/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0820-find-eventual-safe-states](https://github.com/anjali25singhhh/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/anjali25singhhh/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/anjali25singhhh/Leetcode/tree/master/1558-course-schedule-iv) |
@@ -95,6 +96,7 @@ My Leetcode Solutions
 ## Breadth-First Search
 |  |
 | ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/anjali25singhhh/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0820-find-eventual-safe-states](https://github.com/anjali25singhhh/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/anjali25singhhh/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/anjali25singhhh/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -223,11 +225,13 @@ My Leetcode Solutions
 ## Tree
 |  |
 | ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/anjali25singhhh/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/anjali25singhhh/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/anjali25singhhh/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/anjali25singhhh/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/anjali25singhhh/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/anjali25singhhh/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Divide and Conquer
