@@ -101,6 +101,7 @@ My Leetcode Solutions
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/anjali25singhhh/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/anjali25singhhh/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/anjali25singhhh/Leetcode/tree/master/1558-course-schedule-iv) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/anjali25singhhh/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/anjali25singhhh/Leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/anjali25singhhh/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Graph
@@ -228,12 +229,14 @@ My Leetcode Solutions
 | [0515-find-largest-value-in-each-tree-row](https://github.com/anjali25singhhh/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/anjali25singhhh/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/anjali25singhhh/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/anjali25singhhh/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Binary Tree
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/anjali25singhhh/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/anjali25singhhh/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/anjali25singhhh/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/anjali25singhhh/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Divide and Conquer
 |  |
 | ------- |
