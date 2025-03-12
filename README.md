@@ -13,6 +13,7 @@ My Leetcode Solutions
 | [0037-sudoku-solver](https://github.com/anjali25singhhh/Leetcode/tree/master/0037-sudoku-solver) |
 | [0047-permutations-ii](https://github.com/anjali25singhhh/Leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/anjali25singhhh/Leetcode/tree/master/0049-group-anagrams) |
+| [0494-target-sum](https://github.com/anjali25singhhh/Leetcode/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anjali25singhhh/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/anjali25singhhh/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/anjali25singhhh/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -206,6 +207,7 @@ My Leetcode Solutions
 | ------- |
 | [0037-sudoku-solver](https://github.com/anjali25singhhh/Leetcode/tree/master/0037-sudoku-solver) |
 | [0047-permutations-ii](https://github.com/anjali25singhhh/Leetcode/tree/master/0047-permutations-ii) |
+| [0494-target-sum](https://github.com/anjali25singhhh/Leetcode/tree/master/0494-target-sum) |
 | [1160-letter-tile-possibilities](https://github.com/anjali25singhhh/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/anjali25singhhh/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/anjali25singhhh/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -236,6 +238,7 @@ My Leetcode Solutions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/anjali25singhhh/Leetcode/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/anjali25singhhh/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/anjali25singhhh/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/anjali25singhhh/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
