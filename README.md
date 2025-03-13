@@ -42,6 +42,7 @@ My Leetcode Solutions
 | [3429-special-array-i](https://github.com/anjali25singhhh/Leetcode/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/anjali25singhhh/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3483-alternating-groups-ii](https://github.com/anjali25singhhh/Leetcode/tree/master/3483-alternating-groups-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/anjali25singhhh/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -78,6 +79,7 @@ My Leetcode Solutions
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/anjali25singhhh/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/anjali25singhhh/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2145-grid-game](https://github.com/anjali25singhhh/Leetcode/tree/master/2145-grid-game) |
+| [3643-zero-array-transformation-ii](https://github.com/anjali25singhhh/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -85,6 +87,7 @@ My Leetcode Solutions
 | [0035-search-insert-position](https://github.com/anjali25singhhh/Leetcode/tree/master/0035-search-insert-position) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anjali25singhhh/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/anjali25singhhh/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3643-zero-array-transformation-ii](https://github.com/anjali25singhhh/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Depth-First Search
 |  |
 | ------- |
