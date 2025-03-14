@@ -21,6 +21,7 @@ My Leetcode Solutions
 | [0822-unique-morse-code-words](https://github.com/anjali25singhhh/Leetcode/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/anjali25singhhh/Leetcode/tree/master/0837-most-common-word) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/anjali25singhhh/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/anjali25singhhh/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1477-product-of-the-last-k-numbers](https://github.com/anjali25singhhh/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/anjali25singhhh/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/anjali25singhhh/Leetcode/tree/master/1524-string-matching-in-an-array) |
@@ -88,6 +89,7 @@ My Leetcode Solutions
 | [0004-median-of-two-sorted-arrays](https://github.com/anjali25singhhh/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/anjali25singhhh/Leetcode/tree/master/0035-search-insert-position) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anjali25singhhh/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/anjali25singhhh/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/anjali25singhhh/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3643-zero-array-transformation-ii](https://github.com/anjali25singhhh/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Depth-First Search
