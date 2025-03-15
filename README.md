@@ -36,6 +36,7 @@ My Leetcode Solutions
 | [1927-maximum-ascending-subarray-sum](https://github.com/anjali25singhhh/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2107-find-unique-binary-string](https://github.com/anjali25singhhh/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/anjali25singhhh/Leetcode/tree/master/2145-grid-game) |
+| [2465-shifting-letters-ii](https://github.com/anjali25singhhh/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/anjali25singhhh/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/anjali25singhhh/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2685-first-completely-painted-row-or-column](https://github.com/anjali25singhhh/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
@@ -86,6 +87,7 @@ My Leetcode Solutions
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/anjali25singhhh/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/anjali25singhhh/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2145-grid-game](https://github.com/anjali25singhhh/Leetcode/tree/master/2145-grid-game) |
+| [2465-shifting-letters-ii](https://github.com/anjali25singhhh/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/anjali25singhhh/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Binary Search
 |  |
@@ -172,6 +174,7 @@ My Leetcode Solutions
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/anjali25singhhh/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/anjali25singhhh/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/anjali25singhhh/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2465-shifting-letters-ii](https://github.com/anjali25singhhh/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/anjali25singhhh/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Counting
 |  |
