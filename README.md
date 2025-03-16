@@ -44,6 +44,7 @@ My Leetcode Solutions
 | [2685-first-completely-painted-row-or-column](https://github.com/anjali25singhhh/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2690-house-robber-iv](https://github.com/anjali25singhhh/Leetcode/tree/master/2690-house-robber-iv) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/anjali25singhhh/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2792-neighboring-bitwise-xor](https://github.com/anjali25singhhh/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/anjali25singhhh/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/anjali25singhhh/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/anjali25singhhh/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -308,6 +309,7 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/anjali25singhhh/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2792-neighboring-bitwise-xor](https://github.com/anjali25singhhh/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 ## Monotonic Stack
 |  |
 | ------- |
