@@ -9,6 +9,7 @@ My Leetcode Solutions
 | [0004-median-of-two-sorted-arrays](https://github.com/anjali25singhhh/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/anjali25singhhh/Leetcode/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/anjali25singhhh/Leetcode/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/anjali25singhhh/Leetcode/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/anjali25singhhh/Leetcode/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/anjali25singhhh/Leetcode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/anjali25singhhh/Leetcode/tree/master/0046-permutations) |
@@ -303,6 +304,7 @@ My Leetcode Solutions
 | ------- |
 | [0011-container-with-most-water](https://github.com/anjali25singhhh/Leetcode/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/anjali25singhhh/Leetcode/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/anjali25singhhh/Leetcode/tree/master/0031-next-permutation) |
 ## Sliding Window
 |  |
 | ------- |
