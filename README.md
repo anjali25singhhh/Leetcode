@@ -166,6 +166,7 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/anjali25singhhh/Leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0022-generate-parentheses](https://github.com/anjali25singhhh/Leetcode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/anjali25singhhh/Leetcode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/anjali25singhhh/Leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/anjali25singhhh/Leetcode/tree/master/0049-group-anagrams) |
@@ -246,6 +247,7 @@ My Leetcode Solutions
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/anjali25singhhh/Leetcode/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/anjali25singhhh/Leetcode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/anjali25singhhh/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/anjali25singhhh/Leetcode/tree/master/0047-permutations-ii) |
@@ -286,6 +288,7 @@ My Leetcode Solutions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/anjali25singhhh/Leetcode/tree/master/0022-generate-parentheses) |
 | [0494-target-sum](https://github.com/anjali25singhhh/Leetcode/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/anjali25singhhh/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1063-best-sightseeing-pair](https://github.com/anjali25singhhh/Leetcode/tree/master/1063-best-sightseeing-pair) |
