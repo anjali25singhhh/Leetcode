@@ -304,6 +304,7 @@ My Leetcode Solutions
 | [1063-best-sightseeing-pair](https://github.com/anjali25singhhh/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/anjali25singhhh/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/anjali25singhhh/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [2562-count-ways-to-build-good-strings](https://github.com/anjali25singhhh/Leetcode/tree/master/2562-count-ways-to-build-good-strings) |
 ## Number Theory
 |  |
 | ------- |
