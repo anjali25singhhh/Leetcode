@@ -24,6 +24,7 @@ My Leetcode Solutions
 | [0837-most-common-word](https://github.com/anjali25singhhh/Leetcode/tree/master/0837-most-common-word) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/anjali25singhhh/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/anjali25singhhh/Leetcode/tree/master/0952-word-subsets) |
+| [1025-minimum-cost-for-tickets](https://github.com/anjali25singhhh/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/anjali25singhhh/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/anjali25singhhh/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1477-product-of-the-last-k-numbers](https://github.com/anjali25singhhh/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -301,6 +302,7 @@ My Leetcode Solutions
 | [0022-generate-parentheses](https://github.com/anjali25singhhh/Leetcode/tree/master/0022-generate-parentheses) |
 | [0494-target-sum](https://github.com/anjali25singhhh/Leetcode/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/anjali25singhhh/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [1025-minimum-cost-for-tickets](https://github.com/anjali25singhhh/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/anjali25singhhh/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/anjali25singhhh/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/anjali25singhhh/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
