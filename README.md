@@ -46,6 +46,7 @@ My Leetcode Solutions
 | [2465-shifting-letters-ii](https://github.com/anjali25singhhh/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/anjali25singhhh/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/anjali25singhhh/Leetcode/tree/master/2478-longest-nice-subarray) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/anjali25singhhh/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/anjali25singhhh/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/anjali25singhhh/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2685-first-completely-painted-row-or-column](https://github.com/anjali25singhhh/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
@@ -353,6 +354,7 @@ My Leetcode Solutions
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/anjali25singhhh/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2478-longest-nice-subarray](https://github.com/anjali25singhhh/Leetcode/tree/master/2478-longest-nice-subarray) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/anjali25singhhh/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/anjali25singhhh/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/anjali25singhhh/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/anjali25singhhh/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -387,4 +389,8 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/anjali25singhhh/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Brainteaser
+|  |
+| ------- |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/anjali25singhhh/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 <!---LeetCode Topics End-->
