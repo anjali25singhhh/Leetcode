@@ -38,6 +38,7 @@ My Leetcode Solutions
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/anjali25singhhh/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/anjali25singhhh/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/anjali25singhhh/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1917-maximum-average-pass-ratio](https://github.com/anjali25singhhh/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/anjali25singhhh/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2107-find-unique-binary-string](https://github.com/anjali25singhhh/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/anjali25singhhh/Leetcode/tree/master/2145-grid-game) |
@@ -262,6 +263,7 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/anjali25singhhh/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1917-maximum-average-pass-ratio](https://github.com/anjali25singhhh/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2300-construct-string-with-repeat-limit](https://github.com/anjali25singhhh/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2434-design-a-number-container-system](https://github.com/anjali25singhhh/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/anjali25singhhh/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -316,6 +318,7 @@ My Leetcode Solutions
 | [0011-container-with-most-water](https://github.com/anjali25singhhh/Leetcode/tree/master/0011-container-with-most-water) |
 | [0780-max-chunks-to-make-sorted](https://github.com/anjali25singhhh/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1502-construct-k-palindrome-strings](https://github.com/anjali25singhhh/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
+| [1917-maximum-average-pass-ratio](https://github.com/anjali25singhhh/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/anjali25singhhh/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2300-construct-string-with-repeat-limit](https://github.com/anjali25singhhh/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/anjali25singhhh/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
