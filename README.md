@@ -58,6 +58,7 @@ My Leetcode Solutions
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/anjali25singhhh/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/anjali25singhhh/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/anjali25singhhh/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
+| [2868-continuous-subarrays](https://github.com/anjali25singhhh/Leetcode/tree/master/2868-continuous-subarrays) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/anjali25singhhh/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/anjali25singhhh/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/anjali25singhhh/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -267,6 +268,7 @@ My Leetcode Solutions
 | [2300-construct-string-with-repeat-limit](https://github.com/anjali25singhhh/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2434-design-a-number-container-system](https://github.com/anjali25singhhh/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/anjali25singhhh/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2868-continuous-subarrays](https://github.com/anjali25singhhh/Leetcode/tree/master/2868-continuous-subarrays) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/anjali25singhhh/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/anjali25singhhh/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/anjali25singhhh/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -274,6 +276,7 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/anjali25singhhh/Leetcode/tree/master/2434-design-a-number-container-system) |
+| [2868-continuous-subarrays](https://github.com/anjali25singhhh/Leetcode/tree/master/2868-continuous-subarrays) |
 ## Stack
 |  |
 | ------- |
@@ -374,6 +377,7 @@ My Leetcode Solutions
 | [1755-defuse-the-bomb](https://github.com/anjali25singhhh/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/anjali25singhhh/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/anjali25singhhh/Leetcode/tree/master/2478-longest-nice-subarray) |
+| [2868-continuous-subarrays](https://github.com/anjali25singhhh/Leetcode/tree/master/2868-continuous-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/anjali25singhhh/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/anjali25singhhh/Leetcode/tree/master/3483-alternating-groups-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/anjali25singhhh/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -418,6 +422,7 @@ My Leetcode Solutions
 ## Queue
 |  |
 | ------- |
+| [2868-continuous-subarrays](https://github.com/anjali25singhhh/Leetcode/tree/master/2868-continuous-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/anjali25singhhh/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Trie
 |  |
@@ -443,4 +448,8 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/anjali25singhhh/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/anjali25singhhh/Leetcode/tree/master/2868-continuous-subarrays) |
 <!---LeetCode Topics End-->
