@@ -68,6 +68,7 @@ My Leetcode Solutions
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/anjali25singhhh/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/anjali25singhhh/Leetcode/tree/master/3483-alternating-groups-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/anjali25singhhh/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/anjali25singhhh/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3643-zero-array-transformation-ii](https://github.com/anjali25singhhh/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Hash Table
 |  |
@@ -250,6 +251,7 @@ My Leetcode Solutions
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/anjali25singhhh/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/anjali25singhhh/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/anjali25singhhh/Leetcode/tree/master/3447-clear-digits) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/anjali25singhhh/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Design
 |  |
 | ------- |
@@ -265,6 +267,7 @@ My Leetcode Solutions
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/anjali25singhhh/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/anjali25singhhh/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/anjali25singhhh/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/anjali25singhhh/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Ordered Set
 |  |
 | ------- |
@@ -288,6 +291,7 @@ My Leetcode Solutions
 | [2448-count-number-of-bad-pairs](https://github.com/anjali25singhhh/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/anjali25singhhh/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/anjali25singhhh/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/anjali25singhhh/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Data Stream
 |  |
 | ------- |
