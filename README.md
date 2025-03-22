@@ -99,6 +99,7 @@ My Leetcode Solutions
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/anjali25singhhh/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2685-first-completely-painted-row-or-column](https://github.com/anjali25singhhh/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/anjali25singhhh/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/anjali25singhhh/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/anjali25singhhh/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/anjali25singhhh/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/anjali25singhhh/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -136,6 +137,7 @@ My Leetcode Solutions
 | [2690-house-robber-iv](https://github.com/anjali25singhhh/Leetcode/tree/master/2690-house-robber-iv) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/anjali25singhhh/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/anjali25singhhh/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/anjali25singhhh/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3643-zero-array-transformation-ii](https://github.com/anjali25singhhh/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Depth-First Search
 |  |
@@ -234,6 +236,7 @@ My Leetcode Solutions
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/anjali25singhhh/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/anjali25singhhh/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/anjali25singhhh/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/anjali25singhhh/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/anjali25singhhh/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3447-clear-digits](https://github.com/anjali25singhhh/Leetcode/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/anjali25singhhh/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -248,6 +251,7 @@ My Leetcode Solutions
 | [2300-construct-string-with-repeat-limit](https://github.com/anjali25singhhh/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2448-count-number-of-bad-pairs](https://github.com/anjali25singhhh/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/anjali25singhhh/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/anjali25singhhh/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/anjali25singhhh/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Simulation
 |  |
@@ -385,6 +389,7 @@ My Leetcode Solutions
 | [2478-longest-nice-subarray](https://github.com/anjali25singhhh/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [2868-continuous-subarrays](https://github.com/anjali25singhhh/Leetcode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/anjali25singhhh/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/anjali25singhhh/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/anjali25singhhh/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/anjali25singhhh/Leetcode/tree/master/3483-alternating-groups-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/anjali25singhhh/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
