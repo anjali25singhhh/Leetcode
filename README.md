@@ -237,6 +237,7 @@ My Leetcode Solutions
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/anjali25singhhh/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1524-string-matching-in-an-array](https://github.com/anjali25singhhh/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/anjali25singhhh/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/anjali25singhhh/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/anjali25singhhh/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/anjali25singhhh/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/anjali25singhhh/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -403,6 +404,7 @@ My Leetcode Solutions
 | [0011-container-with-most-water](https://github.com/anjali25singhhh/Leetcode/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/anjali25singhhh/Leetcode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/anjali25singhhh/Leetcode/tree/master/0031-next-permutation) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/anjali25singhhh/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2232-adding-spaces-to-a-string](https://github.com/anjali25singhhh/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/anjali25singhhh/Leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/anjali25singhhh/Leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
@@ -429,6 +431,7 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/anjali25singhhh/Leetcode/tree/master/1524-string-matching-in-an-array) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/anjali25singhhh/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/anjali25singhhh/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/anjali25singhhh/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Bit Manipulation
