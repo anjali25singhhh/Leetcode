@@ -45,6 +45,7 @@ My Leetcode Solutions
 | [2145-grid-game](https://github.com/anjali25singhhh/Leetcode/tree/master/2145-grid-game) |
 | [2164-two-best-non-overlapping-events](https://github.com/anjali25singhhh/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/anjali25singhhh/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2232-adding-spaces-to-a-string](https://github.com/anjali25singhhh/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/anjali25singhhh/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/anjali25singhhh/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/anjali25singhhh/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
@@ -244,6 +245,7 @@ My Leetcode Solutions
 | [2107-find-unique-binary-string](https://github.com/anjali25singhhh/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/anjali25singhhh/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/anjali25singhhh/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2232-adding-spaces-to-a-string](https://github.com/anjali25singhhh/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/anjali25singhhh/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/anjali25singhhh/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/anjali25singhhh/Leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
@@ -274,6 +276,7 @@ My Leetcode Solutions
 | ------- |
 | [0043-multiply-strings](https://github.com/anjali25singhhh/Leetcode/tree/master/0043-multiply-strings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/anjali25singhhh/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2232-adding-spaces-to-a-string](https://github.com/anjali25singhhh/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/anjali25singhhh/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/anjali25singhhh/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/anjali25singhhh/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -400,6 +403,7 @@ My Leetcode Solutions
 | [0011-container-with-most-water](https://github.com/anjali25singhhh/Leetcode/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/anjali25singhhh/Leetcode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/anjali25singhhh/Leetcode/tree/master/0031-next-permutation) |
+| [2232-adding-spaces-to-a-string](https://github.com/anjali25singhhh/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/anjali25singhhh/Leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/anjali25singhhh/Leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Sliding Window
