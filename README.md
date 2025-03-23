@@ -251,6 +251,7 @@ My Leetcode Solutions
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/anjali25singhhh/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/anjali25singhhh/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/anjali25singhhh/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/anjali25singhhh/Leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/anjali25singhhh/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/anjali25singhhh/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3447-clear-digits](https://github.com/anjali25singhhh/Leetcode/tree/master/3447-clear-digits) |
@@ -400,6 +401,7 @@ My Leetcode Solutions
 | [0018-4sum](https://github.com/anjali25singhhh/Leetcode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/anjali25singhhh/Leetcode/tree/master/0031-next-permutation) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/anjali25singhhh/Leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/anjali25singhhh/Leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Sliding Window
 |  |
 | ------- |
