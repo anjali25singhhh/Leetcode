@@ -408,6 +408,7 @@ My Leetcode Solutions
 | [0011-container-with-most-water](https://github.com/anjali25singhhh/Leetcode/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/anjali25singhhh/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/anjali25singhhh/Leetcode/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/anjali25singhhh/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/anjali25singhhh/Leetcode/tree/master/0031-next-permutation) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/anjali25singhhh/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2232-adding-spaces-to-a-string](https://github.com/anjali25singhhh/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
@@ -459,6 +460,7 @@ My Leetcode Solutions
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/anjali25singhhh/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/anjali25singhhh/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/anjali25singhhh/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 ## Recursion
