@@ -30,6 +30,7 @@ My Leetcode Solutions
 | [1025-minimum-cost-for-tickets](https://github.com/anjali25singhhh/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/anjali25singhhh/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/anjali25singhhh/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/anjali25singhhh/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/anjali25singhhh/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/anjali25singhhh/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/anjali25singhhh/Leetcode/tree/master/1524-string-matching-in-an-array) |
@@ -329,6 +330,7 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/anjali25singhhh/Leetcode/tree/master/0043-multiply-strings) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/anjali25singhhh/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/anjali25singhhh/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/anjali25singhhh/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2448-count-number-of-bad-pairs](https://github.com/anjali25singhhh/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
