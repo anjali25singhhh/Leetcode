@@ -32,5 +32,3 @@ class Solution {
  private:
   unordered_map<Node*, Node*> map;
 };
-
-
